@@ -1,5 +1,5 @@
 # LuckyGame
-> author: mrProtein
+> author: mrProtein  
 > create time: 2022-11-24 15:36:33
 
 A lucky game, this game will bring you happiness and luck ~
